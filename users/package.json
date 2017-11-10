@@ -1,12 +1,12 @@
 {
   "name": "users",
-  "version": "1.0.0",
   "description": "Microservice Users",
-  "main": "server.js",
+  "version": "1.0.0",
   "author": "Rodrigo Oler",
-  "license": "MIT",
-  "private": false,
   "dependencies": {
     "hapi": "^16.6.2"
-  }
+  },
+  "license": "MIT",
+  "main": "server.js",
+  "private": false
 }
